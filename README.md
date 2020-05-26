@@ -1,11 +1,14 @@
 
-# Curso pràctic al Cibernarium -  Ráster
+# Curso práctico en el Cibernarium (Barcelona Activa) - Ráster
+https://cibernarium.barcelonactiva.cat/home
+
+## Resumen del curso
 Contenido y material del curso práctico de QGIS - Ráster, interpolación y creación de un Modelo Digital de Elevaciones (MDE), creación de derivados del MDE (pendiente y relieve), estadística zonal y vectorización (poligonize).
 
 
-## Primer dia de classe
+## Presentación y normas de uso
 Benvinguda i instruccions d'ús
-ZProjectA/Barcelona_Activa/Documents/Formacio_Virtual_Teams/Regles_d'ús (003).pptx
+../../ZProjectA/Barcelona_Activa/Documents/Formacio_Virtual_Teams/Regles_d'ús (003).pptx
 
 
 ## Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
