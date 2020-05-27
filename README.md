@@ -16,7 +16,7 @@ http://psig.es/Curs_QGIS_practic_1_raster.zip
 
 
 ## Aprenderásàs a hacer interpolaciones
-
+https://youtu.be/03lDRoK8TM8
 
 ## Aprenderás a crear derivados de un MDE
 
