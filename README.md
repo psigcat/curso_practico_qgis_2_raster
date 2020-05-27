@@ -18,7 +18,11 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 ### Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
 http://psig.es/Curs_QGIS_practic_2_raster.zip
 
-
+.
+.
+.
+.
+.
 
 
 
@@ -34,8 +38,7 @@ https://youtu.be/TQ7XytceNlI
 https://youtu.be/KT--5pUxEMQ
 
 #### Aprenderás a reclasificar y vectorizar un ráster
-
-
+https://youtu.be/WgmNFCsGrD0
 
 #### Altres vídeos tutorials en aquest canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
