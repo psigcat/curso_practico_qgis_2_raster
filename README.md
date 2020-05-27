@@ -1,5 +1,5 @@
 
-# Curso práctico en el Cibernarium (Barcelona Activa) - 
+# Curso práctico de QGIS 
 ## Tema: Ráster, interpolación y otras herramientas
 https://cibernarium.barcelonactiva.cat/home
 
