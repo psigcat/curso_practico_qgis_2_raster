@@ -45,6 +45,12 @@ http://www.youtube.com/c/CarlosLópezQuintanilla
 
 
 
+### Foro de QGIS en español, canal de telegram
+https://web.telegram.org/#/im?p=@qgis_es
+
+### Colabora con QGIS, hazte socio
+www.qgis.es
+
 ### dudas y comentarios
 carlos.lopez@psig.es
 
