@@ -16,7 +16,7 @@ Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interf
 Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pengeu, elimineu cookies (o accedir en una pestanya en incògnit) i torneu a accedir. Si segueix sense aparèixer, pots fer les preguntes a través del micròfon al final de la sessió.
 
 ### Primero hay que descarregar los ficheros comprimidos en zip de este enlace, y descomprimirlos
-http://psig.es/Curs_QGIS_practic_2_raster.zip
+http://psig.es/Curs_QGIS_practic_2_raster.zip (37,5 MB)
 
 .
 .
@@ -40,15 +40,16 @@ https://youtu.be/KT--5pUxEMQ
 #### Aprenderás a reclasificar y vectorizar un ráster
 https://youtu.be/WgmNFCsGrD0
 
-#### Altres vídeos tutorials en aquest canal
+#### Otros vídeos tutorials en este canal
 http://www.youtube.com/c/CarlosLópezQuintanilla
 
 
 
-### Foro de QGIS en español, canal de telegram
+### Foro de QGIS en español, canal de Telegram
 https://web.telegram.org/#/im?p=@qgis_es
 
 ### Colabora con QGIS, hazte socio
+### Asociación de usuarios de QGIS España
 www.qgis.es
 
 ### dudas y comentarios
