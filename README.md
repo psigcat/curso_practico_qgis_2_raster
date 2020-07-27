@@ -1,6 +1,9 @@
 
 # Curso práctico de QGIS 
-## Tema: Ráster, interpolación y otras herramientas
+
+## https://github.com/psigcat/curso_practico_qgis_2_raster
+
+## Tema 2: Ráster, interpolación y otras herramientas
 https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
